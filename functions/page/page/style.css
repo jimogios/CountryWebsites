@@ -1,0 +1,71 @@
+/* Add Detail Table */
+
+#tk-meta-box-page-multi .detail td{
+	padding: 5px;
+	width: 25%;
+	font-size: 13px;
+}
+/*
+#tk-meta-box-page-multi .detail td.title, #tk-meta-box-page-multi .detail td.description,
+#tk-meta-box-page-multi .detail td.tk_title, #tk-meta-box-page-multi .detail td.tk_description{
+	width: 25%;
+	color: #333;
+	font-size: 12px;
+}
+*/
+
+
+
+
+#tk-meta-box-page-multi .inside{overflow:hidden; margin: 0 0 8px; } 
+#tk-meta-box-page-multi .details {overflow:hidden;}
+#tk-meta-box-page-multi .detail.detail-header {
+	background:#e8e8e8; 
+	font-size:14px; 
+	font-weight:bold; 
+	border-top:#ddd solid 1px; 
+	text-shadow:#fff 0px 1px; 
+	margin-top: 10px;
+	border-radius: 5px 5px 0 0;
+	-moz-border-radius: 5px 5px 0 0;
+	border-radius: 5px 5px 0 0;
+}
+#tk-meta-box-page-multi .detail {background:#FFF; border:#DFDFDF solid 1px; border-top:none; padding:10px 10px 0px; overflow:hidden; position:relative;}
+#tk-meta-box-page-multi .details .detail:hover {
+	background:#fefded;
+}
+
+.detail-placeholder{
+	border: 2px dashed #ccc;
+	height: 100px;
+}
+
+#tk-meta-box-page-multi .detail input, #tk-meta-box-page-multi .detail textarea {height:35px; width:100%; color:#333; border:#DFDFDF solid 1px; }
+#tk-meta-box-page-multi .detail input.active, #tk-meta-box-page-multi .detail textarea.active {color:#000; }
+
+
+#tk-meta-box-page-multi .detail .grab {
+	display: inline-block;
+	background:url(images/move.png) left center no-repeat; 
+	min-height:10px; 
+	padding: 2px 0 2px 20px;
+	margin: 0 0 10px 20px;
+	cursor:move; 
+}
+
+#tk-meta-box-page-multi .detail a.delete {
+	display: inline-block;
+	min-height:12px; 
+	padding: 2px 0 2px 20px;
+	background:url(images/cancel.png) left center no-repeat; 
+	color: #BC0B0B;
+	text-decoration: none;
+}
+
+#tk-meta-box-page-multi .detail a.delete:hover{
+	text-decoration: underline;
+}
+
+#tk-meta-box-page-multi .detail.detail-footer {-moz-border-radius: 0 0 5px 5px; -webkit-border-radius: 0 0 5px 5px; border-radius: 0 0 5px 5px; background:#e8e8e8; border-bottom:#ddd solid 1px;}
+#tk-meta-box-page-multi .detail.detail-footer p {margin:0px; padding:0px 0px 10px; text-align:right;}
+#tk-meta-box-page-multi .detail.detail-footer a.button-primary {}

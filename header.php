@@ -23,7 +23,7 @@
 
 
 <!-- FontAwesome styles (iconic font)-->
-<link href="<?php bloginfo("template_url");?>/css/font-awesome.min.css" rel="stylesheet"> 
+<link href="<?php bloginfo("template_url");?>/css/font-awesome.css" rel="stylesheet"> 
 <!-- prettyPhoto styles -->
 
 <!-- Gallery inlarge script styles-->
@@ -85,12 +85,12 @@
 			 <div id="main-nav" class="scroller-spy">
 				<nav class="nav-collapse collapse" >
 				  <ul class="nav pull-right" id="nav">
-					<li class="active"><a href="#header-section">Home</a> </li>
-					<li><a href="#features-section">Service</a> </li>	
-					<li><a href="#portfolio-section">Works</a> </li>
-					<li><a href="#slider-section">Sliders</a> </li>
-					<li><a href="#team-section">Team</a> </li>
-					<li><a href="#contact-section">Contact</a> </li>
+					<li class="active"><a href="#header-section"><!--Home--></a> </li>
+					<li><a href="#features-section"><!--Service--></a> </li>	
+					<li><a href="#portfolio-section"><!--Works--></a> </li>
+					<li><a href="#slider-section"><!--Sliders--></a> </li>
+					<li><a href="#team-section"><!--Team--></a> </li>
+					<li><a href="#contact-section"><!--Contact--></a> </li>
 				  </ul>
 				</nav>
 			  </div>

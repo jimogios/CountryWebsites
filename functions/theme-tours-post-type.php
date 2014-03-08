@@ -81,6 +81,7 @@ function tk_tour_updated_messages( $messages ) {
 
 function tk_build_tour_taxonomies(){
 	register_taxonomy(__( "tour-category" ), array(__( "tour" )), array("hierarchical" => true, "label" => __( "Tour Category" ), "singular_label" => __( "Category" ), "rewrite" => array('slug' => 'tour-category', 'hierarchical' => false)));
+	register_taxonomy(__( "tour-tag" ), array(__( "tour" )), array("hierarchical" => false, "label" => __( "Tour Tag" ), "singular_label" => __( "Tag" ), "rewrite" => array('slug' => 'tour-tag', 'hierarchical' => false)));
 } 
 
 

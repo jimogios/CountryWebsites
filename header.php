@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>PARALLAXER | responsive parallax Bootstrap template</title>
+<title>Country website</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="responsive parallax Bootstrap template">
 <meta name="author" content="ArtLabs">

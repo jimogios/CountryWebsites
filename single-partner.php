@@ -6,7 +6,9 @@
 		${$custom_field['id']}=get_post_meta($post->ID, $custom_field['id'], true);
 	}
 	
-echo $tk_time;?>
+?>
+Time: <?php echo $tk_time;?><br>
+Date: <?php echo $tk_price;?><br>
 			<?php the_title();?>
 			<?php the_permalink();?>	
 

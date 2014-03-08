@@ -127,13 +127,13 @@
 					
 					<!--########## item #############-->
 					<div class="item">
-					<img src="<?php bloginfo("template_url");?>/img/browserthree.png" alt="" />
+					<img src="<?php bloginfo("template_url");?>/img/Header-1.jpg" alt="" />
 					</div>
 					<!--############/item###########-->
 					
 					<!--########## item #############-->
 					<div class="item">
-					<img src="<?php bloginfo("template_url");?>/img/responsiveshwcase.png" alt="" />
+					<img src="<?php bloginfo("template_url");?>/img/Header-1.jpg" alt="" />
 					</div>
 					<!--############/item###########-->
 					

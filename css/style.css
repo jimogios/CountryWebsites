@@ -591,7 +591,7 @@ box-shadow: none;
 }
 
 #header-section{
-	background: url( ../../images/headerbg.jpg) 50% 0% fixed repeat;
+	background: url( ../images/headerbg.jpg) 50% 0% fixed repeat;
 	/*background: url( ../../images/sloganbg.jpg) 50% 0% fixed repeat;*/
 	position:relative;
 	display:inline-block;

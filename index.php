@@ -1,7 +1,6 @@
 <?php get_header(); ?>
 
-<div class="row fluid">
-
+<div class="row fluid" id="imageheader">
 <<<<<<< HEAD
 <div class="row-fluid text-center">
 	

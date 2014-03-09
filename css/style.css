@@ -209,7 +209,7 @@ border:0px;
 }
 .page-header h3{
 	font-size:34.5px;
-	color:#e93f33;
+	color:#ffffff;
 	display:inline-block;
 	padding:5px 20px 5px 3px;
 }
@@ -598,7 +598,7 @@ box-shadow: none;
 	width:100%;
 	min-width:100%;
 	overflow:hidden;
-	border-bottom:4px solid #e93f33;
+	border-bottom:4px solid #003399;
 	box-sizing:border-box;
 	-moz-box-sizing:border-box;
 	min-height:200px;
@@ -965,6 +965,11 @@ color:#e93f33;
 }
 .tabs-contain .nav-tabs > li a{
 	font-size:18px;
+}
+
+.abc{
+	padding-bottom:50px;
+	border-bottom:5px solid #003399;
 }
 
 /******************* SLOGAN SECTION *******************/

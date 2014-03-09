@@ -6,7 +6,7 @@
    
 <!-- CONTACT HEADER-->
 <div class="">
-<div class="foothead">
+<div class="foothead" align="center">
 	<div class="container">
 		<div class="row-fluid">
 			<div class="span12">

@@ -110,7 +110,7 @@
 				<div class="carousel-inner">
 				
 					<!--########## item #############-->
-					<div class="item" style="background:url(<?php bloginfo("template_url");?>/img/Header-1.jpg)">
+					<div class="item active" style="background:url(<?php bloginfo("template_url");?>/img/Header-1.jpg)">
 						<div class="hero-unit text-center">
 						<h1 class="">
 						

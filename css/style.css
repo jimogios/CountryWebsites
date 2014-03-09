@@ -1252,6 +1252,7 @@ box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 5px rgba(0,0,0,.25),8px 8p
 
 .carousel-inner .item {
 	text-align: center !important;
+	height: 500px;
 }
 
 @media (max-width: 570px) {

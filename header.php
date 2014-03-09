@@ -110,7 +110,7 @@
 				<div class="carousel-inner">
 				
 					<!--########## item #############-->
-					<div class="item active">
+					<div class="item" style="background:url(<?php bloginfo("template_url");?>/img/Header-1.jpg)">
 						<div class="hero-unit text-center">
 						<h1 class="">
 						
@@ -127,21 +127,35 @@
 					
 					<!--########## item #############-->
 					<div class="item" style="background:url(<?php bloginfo("template_url");?>/img/Header-1.jpg)">
+						<div class="hero-unit text-center">
+						
+						
 						<h1 class="">
 						
-						<span class="active">AIESEC	</span></h1>
+						<span class="active">Global Internship Program	</span></h1>
 						<!-- !! DEL Class="active" when used static animated h1 script -->
 								<h2 class="text-center">
-									The global youth network impacting the world through leadership development experiences.
+									Sample
 								</h2>
 					
-					
+						</div>
 					</div>
 					<!--############/item###########-->
 					
 					<!--########## item #############-->
-					<div class="item">
-					<img src="<?php bloginfo("template_url");?>/img/Header-1.jpg" alt="" />
+					<div class="item" style="background:url(<?php bloginfo("template_url");?>/img/Header-1.jpg)">
+						<div class="hero-unit text-center">
+						
+						
+						<h1 class="">
+						
+						<span class="active">Global Internship Program	</span></h1>
+						<!-- !! DEL Class="active" when used static animated h1 script -->
+								<h2 class="text-center">
+									Sample
+								</h2>
+					
+						</div>
 					</div>
 					<!--############/item###########-->
 					

@@ -18,7 +18,7 @@
     add_action('init', 'removeHeadLinks');
     remove_action('wp_head', 'wp_generator');
     
-	
+	include ("functions/framework-init.php");
 	/*
     if (function_exists('register_sidebar')) {
     	register_sidebar(array(

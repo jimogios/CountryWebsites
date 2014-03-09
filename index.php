@@ -4,10 +4,10 @@
 <<<<<<< HEAD
 <div class="row-fluid text-center">
 	
-	<div class="span6"><img src="/wordpress/wp-content/themes/CountryWebsites/img/Corporate-1.png"></div>
+	<div id="leftimg" class="span6"><img src="/wordpress/wp-content/themes/CountryWebsites/img/Corporate-1.png"></div>
 	
 	
-	<div class="span6"><img src="/wordpress/wp-content/themes/CountryWebsites/img/youth-1.jpg"></div>
+	<div id="rightimg" class="span6"><img src="/wordpress/wp-content/themes/CountryWebsites/img/youth-1.jpg"></div>
 	
 	
 	

@@ -3,7 +3,7 @@
 <div class="row fluid">
 
 <<<<<<< HEAD
-<div class="row-fluid text-center abc">
+<div class="row-fluid text-center">
 	
 	<div class="span6"><img src="/wordpress/wp-content/themes/CountryWebsites/img/Corporate-1.png"></div>
 	

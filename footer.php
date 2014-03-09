@@ -6,7 +6,7 @@
    
 <!-- CONTACT HEADER-->
 <div class="">
-<div class="foothead">
+<div class="foothead" style="text-align: center">
 	<div class="container">
 		<div class="row-fluid">
 			<div class="span12">
@@ -24,7 +24,7 @@
 
  <div class="container">
 <div class="row-fluid">
-
+<!--
 <div class="span6 comments-form-line">
    
         <form accept-charset="UTF-8" method="POST" class="comments-form row-fluid">
@@ -53,34 +53,28 @@
 
 					 </form>
 </div>
-	
-<div class="span3">
-    <h4 class="line3 center standart-h4title"><span>Useful Links</span></h4>
-        <ul class="footer-links">
-          <li><a href="#">PARALLAXER</a></li>
-          <li><a href="#">PARALLAXER</a></li>
-          <li><a href="#">WordPress.com</a></li>
-          <li><a href="#">ThemeForest.net</a></li>
-          <li><a href="#">Free Vector Icons</a></li>
-        </ul>
-</div><div class="span3">
-    <h4 class="line3 center standart-h4title"><span>Useful Links</span></h4>
-        <ul class="footer-links">
-          <li><a href="#">PARALLAXER</a></li>
-          <li><a href="#">PARALLAXER</a></li>
-          <li><a href="#">WordPress.com</a></li>
-          <li><a href="#">ThemeForest.net</a></li>
-          <li><a href="#">Free Vector Icons</a></li>
-        </ul>
-</div>
+	-->
 
-<div class="span6">
+<div class="span12">
 <hr class="line" />
 </div>
 
-<div class="span3">
+<div class="span12" style="text-align: center">
 
-<h4> Lets connected</h4>
+<h4> Our office</h4>
+		<h5><address><p>
+				<strong class="main-color">PARALLAXER, LLC.</strong><br>
+				<i class="fa-icon-map-marker"></i> 795 Folsom Ave, Suite 600
+				San Francisco, CA 94107<br/>
+				<i class="fa-icon-phone-sign"></i> + 4 (123) 456-7890
+				<div class="foot-line"></div>
+		</address></h5></p>
+	
+</div>
+
+<div class="span12" style="text-align: center" font-size:"10px">
+
+<h4 style="text-align: center"> Lets connected</h4>
 		<ul class="social-icons">
 			<li><a href="#" title=""><i class="fa-icon-facebook"></i></a></li>
 			<li><a href="#" title=""><i class="fa-icon-twitter"></i></a></li>
@@ -93,17 +87,25 @@
 		
 </div>
 
-<div class="span3">
 
-<h4> Our office</h4>
-		<address>
-				<strong class="main-color">PARALLAXER, LLC.</strong><br>
-				<i class="fa-icon-map-marker"></i> 795 Folsom Ave, Suite 600
-				San Francisco, CA 94107<br/>
-				<i class="fa-icon-phone-sign"></i> + 4 (123) 456-7890
-				<div class="foot-line"></div>
-		</address>
-	
+<div class="span6">
+    <h4 class="line3 center standart-h4title"><span>Useful Links</span></h4>
+        <ul class="footer-links">
+          <li><a href="#">PARALLAXER</a></li>
+          <li><a href="#">PARALLAXER</a></li>
+          <li><a href="#">WordPress.com</a></li>
+          <li><a href="#">ThemeForest.net</a></li>
+          <li><a href="#">Free Vector Icons</a></li>
+        </ul>
+</div><div class="span6">
+    <h4 class="line3 center standart-h4title"><span>Useful Links</span></h4>
+        <ul class="footer-links">
+          <li><a href="#">PARALLAXER</a></li>
+          <li><a href="#">PARALLAXER</a></li>
+          <li><a href="#">WordPress.com</a></li>
+          <li><a href="#">ThemeForest.net</a></li>
+          <li><a href="#">Free Vector Icons</a></li>
+        </ul>
 </div>
 
 </div>

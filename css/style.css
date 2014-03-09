@@ -201,24 +201,35 @@ border:0px;
 }
 
 /***************** HEADERS **************************/
-.page-header{
+/*.page-header{
 	background: url(../img/linebg.jpg) center center repeat-x;
-}
+}*/
 .page-header.inner-header{
 	margin-top:50px;
 }
 .page-header h3{
 	font-size:34.5px;
-	color:#e93f33;
+	color:#FFFFFF;
 	display:inline-block;
 	padding:5px 20px 5px 3px;
+	text-shadow: 2px 2px 10px #000000;
 }
 .page-header h3 small{
 	font-size:18px;
 	float:none;
 	display:block;
-	
 }
+
+h4 {
+	font-size:30.5px;
+	text-shadow: 2px 2px 10px #000000;
+}
+h5{
+	font-size:13.5px;
+	text-shadow: 2px 2px 10px #000000;
+}
+
+
 /******************** TOP SECTION *******************/
 .btn.btn-action{
 background:#e93f33;
@@ -1095,13 +1106,14 @@ border-radius: 5px;
 }
 
 .social-icons li{
+	font-size:27px;
 	display:inline-block;
 	list-style:none;
 	float:left;
-	width:30px;
-	height:30px;
+	width:40px;
+	height:40px;
 	margin:2px;
-	background:#e93f33;
+	background:#003399;
 	/*-webkit-border-radius: 100px;
 	-moz-border-radius: 100px;
 	border-radius: 100px;*/

@@ -78,7 +78,7 @@
 			</button>
 						<!-- LOGO -->
 						<a class="brand" href="index.html"> 
-						<span><i class="fa-icon-cogs"></i> PARALLAXER</span>
+						<span><i class="fa-icon-cogs"></i> AIESEC in Hong Kong</span>
 						<!--<img src="assets/img/logo.png" alt="Logo">--></a>
 						
 			 <!-- TOP NAVIGATION-->

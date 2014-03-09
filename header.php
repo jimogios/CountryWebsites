@@ -163,8 +163,8 @@
 					
 				</div>
 				
-				<a class="carousel-control left btn-control " href="#carousel_horizontal_slide_2" data-slide="prev"><i class="fa-icon-double-angle-left main-color"></i></a>
-				<a class="carousel-control right btn-control btn-action" href="#carousel_horizontal_slide_2" data-slide="next"><i class="fa-icon-double-angle-right main-color"></i></a>
+				<a class="carousel-control left btn-control " href="#carousel_horizontal_slide_2" data-slide="prev"><i class="fa-icon-double-angle-left main-color:#003399"></i></a>
+				<a class="carousel-control right btn-control btn-action" href="#carousel_horizontal_slide_2" data-slide="next"><i class="fa-icon-double-angle-right main-color:#003399"></i></a>
 	</div>
 	
 

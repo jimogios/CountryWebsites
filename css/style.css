@@ -1422,7 +1422,7 @@ background-color: #dcdcdc;
 background-image: -moz-linear-gradient(top,#dcdcdc,#dcdcdc);
 background-image: -ms-linear-gradient(top,#dcdcdc,#dcdcdc);
 background-image: -webkit-gradient(linear,0 0,0 100%,from(#dcdcdc),to(#dcdcdc));
-background-image: -webkit-linear-gradient(top,#dcdcdc,#dcdcdc);
+background-image: -webkit-linear-gradient(top,#FFFFFF,#FFFFFF);
 background-image: -o-linear-gradient(top,#dcdcdc,#dcdcdc);
 background-image: linear-gradient(top,#dcdcdc,#dcdcdc);
 background-repeat: repeat-x;

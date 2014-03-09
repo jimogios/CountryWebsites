@@ -87,7 +87,7 @@
 		
 </div>
 
-
+<div class="row-fluid">
 <div class="span6">
     <h4 class="line3 center standart-h4title"><span>Useful Links</span></h4>
         <ul class="footer-links">

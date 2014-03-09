@@ -1461,10 +1461,15 @@ span.slogan .tweetList li p p.timestamp{
 /* ########################## CONTACT SECTION   ##################*/
 
 #contact-section{
-	background:url( ../img/blogbg.png) repeat;
+	background: url( ../img/foot.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	
 }
-#contact-section .page-header h3{
-	background:url( ../img/blogbg.png) repeat;
+/*#contact-section .page-header h3{
+	background:url( ../img/foot.jpg) repeat;*/
 }
 
 

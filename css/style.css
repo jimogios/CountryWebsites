@@ -201,9 +201,9 @@ border:0px;
 }
 
 /***************** HEADERS **************************/
-.page-header{
+/*.page-header{
 	background: url(../img/linebg.jpg) center center repeat-x;
-}
+}*/
 .page-header.inner-header{
 	margin-top:50px;
 }
@@ -212,6 +212,7 @@ border:0px;
 	color:#ffffff;
 	display:inline-block;
 	padding:5px 20px 5px 3px;
+	text-shadow:1px 1px 4px #000000;
 }
 .page-header h3 small{
 	font-size:18px;
@@ -1106,7 +1107,7 @@ border-radius: 5px;
 	width:30px;
 	height:30px;
 	margin:2px;
-	background:#e93f33;
+	background:#003399;
 	/*-webkit-border-radius: 100px;
 	-moz-border-radius: 100px;
 	border-radius: 100px;*/
@@ -1507,7 +1508,7 @@ footer address{
 	display:block;
 	width:100%;
 	height:250px;
-	border-top: 4px solid #e93f33;
+	border-bottom: 4px solid #003399;
 
 	margin-top:30px;
 	position:relative;
